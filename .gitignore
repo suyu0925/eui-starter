@@ -1,3 +1,6 @@
+# webpack build output
+build
+
 # Logs
 logs
 *.log
